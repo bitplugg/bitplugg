@@ -16,11 +16,11 @@
 
 | Моя активность | Популярные языки |
 | :--- | :--- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitcone91&layout=compact&theme=radical&hide_border=true) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitplugg&layout=compact&theme=radical&hide_border=true) |
 
 ### 📈 Граф коммитов
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bitcone91&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bitplugg&theme=react-dark&hide_border=true)
 
 ### 📫 Как со мной связаться
 
