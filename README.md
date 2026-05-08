@@ -20,7 +20,7 @@
 
 ### 📈 Граф коммитов
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bitcone91&theme=react-dark&hide_border=true)
 
 ### 📫 Как со мной связаться
 
