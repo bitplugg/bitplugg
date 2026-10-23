@@ -1,0 +1,628 @@
+{
+ "key": "928a24b",
+ "stars": 6,
+ "contributions": 326,
+ "repos": 46,
+ "followers": 1,
+ "languages": [
+  [
+   "Kotlin",
+   1103416
+  ],
+  [
+   "TypeScript",
+   999537
+  ],
+  [
+   "Python",
+   515786
+  ],
+  [
+   "C++",
+   385623
+  ],
+  [
+   "JavaScript",
+   292964
+  ],
+  [
+   "CSS",
+   216646
+  ],
+  [
+   "HTML",
+   208471
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 15,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "susfs4ksu-module-fork",
+   "url": "https://github.com/bitplugg/susfs4ksu-module-fork",
+   "text": "An addon root hiding service for KernelSU",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "nixos-config",
+   "url": "https://github.com/bitplugg/nixos-config",
+   "text": "My nixos config",
+   "fork": false,
+   "stars": 2,
+   "language": "Nix",
+   "topics": []
+  },
+  {
+   "name": "zxckill-nvim",
+   "url": "https://github.com/bitplugg/zxckill-nvim",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "plugram",
+   "url": "https://github.com/bitplugg/plugram",
+   "text": "Plugram app repo",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ail0l",
+   "url": "https://github.com/bitplugg/ail0l",
+   "text": "Android app for local ai",
+   "fork": false,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "aiia-plugin-store",
+   "url": "https://github.com/bitplugg/aiia-plugin-store",
+   "text": "Store of AIIA .aiip and .dex plugins",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "ail0l",
+   "url": "https://github.com/bitplugg/ail0l",
+   "text": "Android app for local ai",
+   "fork": false,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "nixos-config",
+   "url": "https://github.com/bitplugg/nixos-config",
+   "text": "My nixos config",
+   "fork": false,
+   "stars": 2,
+   "language": "Nix",
+   "topics": []
+  },
+  {
+   "name": "plugram",
+   "url": "https://github.com/bitplugg/plugram",
+   "text": "Plugram app repo",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "matesound",
+   "url": "https://github.com/bitplugg/matesound",
+   "text": "Unofficial SoundCloud client for Android — Kotlin, Jetpack Compose, Media3",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "rawui",
+   "url": "https://github.com/bitplugg/rawui",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "XDDbot-fdroid",
+   "url": "https://github.com/bitplugg/XDDbot-fdroid",
+   "text": "F-Droid & store distribution for XDDBOT",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "XDDbot",
+   "url": "https://github.com/bitplugg/XDDbot",
+   "text": "BLE companion for your own scooter (Compose, Material You)",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "lcr",
+   "url": "https://github.com/bitplugg/lcr",
+   "text": "LCR - Lavender Custom Recovery (custom TWRP for Redmi Note 7 / Note 7S)",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "llama.cpp-tui",
+   "url": "https://github.com/bitplugg/llama.cpp-tui",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "aiia-plugin-store",
+   "url": "https://github.com/bitplugg/aiia-plugin-store",
+   "text": "Store of AIIA .aiip and .dex plugins",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "aiia-aiip-template",
+   "url": "https://github.com/bitplugg/aiia-aiip-template",
+   "text": "Official template for AIIA (.aiip) plugins",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "opensaw",
+   "url": "https://github.com/bitplugg/opensaw",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "dotfiles",
+   "url": "https://github.com/bitplugg/dotfiles",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "secheaders-python",
+   "url": "https://github.com/bitplugg/secheaders-python",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "secheaders-sdk",
+   "url": "https://github.com/bitplugg/secheaders-sdk",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "secheaders",
+   "url": "https://github.com/bitplugg/secheaders",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "clawshell",
+   "url": "https://github.com/bitplugg/clawshell",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "p2p-share-bot",
+   "url": "https://github.com/bitplugg/p2p-share-bot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "nixos-pack",
+   "url": "https://github.com/bitplugg/nixos-pack",
+   "text": "My custom packages for nixos",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "bitplugg",
+   "url": "https://github.com/bitplugg/bitplugg",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "plugram-plugin",
+   "url": "https://github.com/bitplugg/plugram-plugin",
+   "text": "Repo for Plugram plugins",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Laitoxx-Mobile-fork",
+   "url": "https://github.com/bitplugg/Laitoxx-Mobile-fork",
+   "text": "LAITOXX - это профессиональное приложение для Android для специалистов по информационной безопасности, исследователей OSINT и тестеров проникновения. Приложение предоставляет современный и удобный интерфейс для выполнения различных задач анализа безопасности.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "ai-phone-app",
+   "url": "https://github.com/bitplugg/ai-phone-app",
+   "text": "AI mobile app,work on ollama or cloud service. Material You 3 color",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "ai-tools",
+    "apps"
+   ]
+  },
+  {
+   "name": "livewallextra",
+   "url": "https://github.com/bitplugg/livewallextra",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "susfs4ksu-module-fork",
+   "url": "https://github.com/bitplugg/susfs4ksu-module-fork",
+   "text": "An addon root hiding service for KernelSU",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "kernel_samsung_universal9611",
+   "url": "https://github.com/bitplugg/kernel_samsung_universal9611",
+   "text": "Grass kernel source for Galaxy A51/M21/M31/M31s/F41/Tab S6 Lite, archived due to a kanger",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "zxck1l.github.io",
+   "url": "https://github.com/bitplugg/zxck1l.github.io",
+   "text": "My github pages",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "zxcenterprise",
+   "url": "https://github.com/bitplugg/zxcenterprise",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "commerce",
+   "url": "https://github.com/bitplugg/commerce",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "image-gallery-starter",
+   "url": "https://github.com/bitplugg/image-gallery-starter",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "nextjs-ai-chatbot",
+   "url": "https://github.com/bitplugg/nextjs-ai-chatbot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "admin-for-you",
+   "url": "https://github.com/bitplugg/admin-for-you",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "myblog",
+   "url": "https://github.com/bitplugg/myblog",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "zxcadmin-panel",
+   "url": "https://github.com/bitplugg/zxcadmin-panel",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "zxcadmin",
+   "url": "https://github.com/bitplugg/zxcadmin",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "nvim",
+   "url": "https://github.com/bitplugg/nvim",
+   "text": "my nvim conf file",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "zs-project",
+   "url": "https://github.com/bitplugg/zs-project",
+   "text": "zsx",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "zs",
+   "url": "https://github.com/bitplugg/zs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "zxck1llserv",
+   "url": "https://github.com/bitplugg/zxck1llserv",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "znvim",
+   "url": "https://github.com/bitplugg/znvim",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "zxck1llka-app-public",
+   "url": "https://github.com/bitplugg/zxck1llka-app-public",
+   "text": "zxck1llka app repo",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "zxck1ller-app",
+   "url": "https://github.com/bitplugg/zxck1ller-app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "zxck1llka-nvim",
+   "url": "https://github.com/bitplugg/zxck1llka-nvim",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "zxck1ll-app",
+   "url": "https://github.com/bitplugg/zxck1ll-app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "zxckill-nvim",
+   "url": "https://github.com/bitplugg/zxckill-nvim",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "zxck1l",
+   "url": "https://github.com/bitplugg/zxck1l",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  }
+ ]
+}
