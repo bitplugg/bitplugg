@@ -1,30 +1,23 @@
-<!-- Заголовок с анимированной печатной строкой (меняйте текст под себя) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2E9AFE&center=false&vCenter=true&width=600&lines=Python+%2B+NixOS+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Declarative+Infrastructure+%26+Clean+Code;Backend+%7C+DevOps+%7C+Nix+%D1%8D%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82)](https://git.io/typing-svg)
+<div align="center">
 
-### 🛠️ Мой стек
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Привет, я bitplugg"></picture>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="40" height="40" alt="NixOS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="Обо мне"></picture>
 
-### 📊 GitHub‑статистика (живая)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-| Моя активность | Популярные языки |
-| :--- | :--- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitplugg&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitplugg&layout=compact&theme=radical&hide_border=true) |
+<a href="https://github.com/bitplugg/matesound"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-matesound-dark.svg"><img src="assets/project-matesound-light.svg" width="49%" alt="matesound"></picture></a>&nbsp;<a href="https://github.com/bitplugg/rawui"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rawui-dark.svg"><img src="assets/project-rawui-light.svg" width="49%" alt="rawui"></picture></a>
 
-### 📈 Граф коммитов
+<a href="https://github.com/bitplugg/ail0l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ail0l-dark.svg"><img src="assets/project-ail0l-light.svg" width="49%" alt="ail0l"></picture></a>&nbsp;<a href="https://github.com/bitplugg/XDDbot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-xddbot-dark.svg"><img src="assets/project-xddbot-light.svg" width="49%" alt="XDDbot"></picture></a>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bitplugg&theme=react-dark&hide_border=true)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
-### 📫 Как со мной связаться
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Серия"></picture>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/userbitpugg)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bitplugg)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
----
+<a href="https://github.com/bitplugg?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Все репозитории"></picture></a>&nbsp;&nbsp;<a href="https://github.com/matesound"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Люблю"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=bitplugg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
