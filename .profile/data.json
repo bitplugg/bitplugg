@@ -1,17 +1,17 @@
 {
- "key": "4d1bc28d",
+ "key": "47d5bdfc",
  "stars": 6,
- "contributions": 336,
- "repos": 46,
+ "contributions": 338,
+ "repos": 47,
  "followers": 1,
  "languages": [
   [
    "Kotlin",
-   1254347
+   1259267
   ],
   [
    "TypeScript",
-   999537
+   1031425
   ],
   [
    "Python",
@@ -23,15 +23,15 @@
   ],
   [
    "JavaScript",
-   292964
+   385382
   ],
   [
    "CSS",
-   216646
+   227079
   ],
   [
    "HTML",
-   208471
+   222090
   ]
  ],
  "days": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 2,
     "day": 25,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 5
  },
  "pins": [
@@ -209,6 +209,15 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Alice-App",
+   "url": "https://github.com/bitplugg/Alice-App",
+   "text": "Панель управления Яндекс Станцией Лайт: Android-приложение (WebView + Material Web) и CGI-бэкенд прямо на колонке (свет, LED-анимации, USB Host, пакеты yse)",
+   "fork": false,
+   "stars": 0,
+   "language": "SCSS",
    "topics": []
   },
   {
