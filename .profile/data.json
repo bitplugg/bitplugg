@@ -1,37 +1,37 @@
 {
- "key": "b0826416",
+ "key": "ed79b85d",
  "stars": 6,
- "contributions": 341,
+ "contributions": 342,
  "repos": 47,
  "followers": 1,
  "languages": [
   [
    "Kotlin",
-   1259267
+   1254347
   ],
   [
    "TypeScript",
-   1031425
+   999537
   ],
   [
    "Python",
    515786
   ],
   [
-   "JavaScript",
-   390763
-  ],
-  [
    "C++",
    385623
   ],
   [
+   "JavaScript",
+   292964
+  ],
+  [
    "CSS",
-   227079
+   216646
   ],
   [
    "HTML",
-   224601
+   208471
   ]
  ],
  "days": [
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 27,
     "today": true
    },
@@ -132,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 4,
+  "current": 5,
   "longest": 5
  },
  "pins": [
@@ -225,7 +225,7 @@
    "text": "Панель управления Яндекс Станцией Лайт: Android-приложение (WebView + Material Web) и CGI-бэкенд прямо на колонке (свет, LED-анимации, USB Host, пакеты yse)",
    "fork": false,
    "stars": 0,
-   "language": "SCSS",
+   "language": "Shell",
    "topics": []
   },
   {
