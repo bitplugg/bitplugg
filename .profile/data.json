@@ -1,8 +1,8 @@
 {
- "key": "8189b928",
+ "key": "b43dfb59",
  "stars": 6,
- "contributions": 345,
- "repos": 47,
+ "contributions": 349,
+ "repos": 48,
  "followers": 1,
  "languages": [
   [
@@ -15,7 +15,7 @@
   ],
   [
    "Python",
-   515786
+   634578
   ],
   [
    "C++",
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 28,
     "today": true
    },
@@ -136,8 +136,8 @@
   ]
  ],
  "streak": {
-  "current": 5,
-  "longest": 5
+  "current": 6,
+  "longest": 6
  },
  "pins": [
   {
@@ -221,6 +221,15 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "kitsune",
+   "url": "https://github.com/bitplugg/kitsune",
+   "text": "🦊 nine-tailed pentest framework — nmap + msf + aircrack + sqlmap в одном CLI · 25 модулей · SQLite-сессия · TUI · REST API · pipx install",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
    "topics": []
   },
   {
