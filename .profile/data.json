@@ -1,6 +1,6 @@
 {
- "key": "b066a998",
- "stars": 8,
+ "key": "56520138",
+ "stars": 9,
  "contributions": 359,
  "repos": 51,
  "followers": 1,
@@ -201,21 +201,21 @@
  ],
  "all": [
   {
+   "name": "kitsune",
+   "url": "https://github.com/bitplugg/kitsune",
+   "text": "🦊 nine-tailed pentest framework — nmap + msf + aircrack + sqlmap в одном CLI · 25 модулей · SQLite-сессия · TUI · REST API · pipx install",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  },
+  {
    "name": "ail0l",
    "url": "https://github.com/bitplugg/ail0l",
    "text": "Android app for local ai",
    "fork": false,
    "stars": 3,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "kitsune",
-   "url": "https://github.com/bitplugg/kitsune",
-   "text": "🦊 nine-tailed pentest framework — nmap + msf + aircrack + sqlmap в одном CLI · 25 модулей · SQLite-сессия · TUI · REST API · pipx install",
-   "fork": false,
-   "stars": 2,
-   "language": "Python",
    "topics": []
   },
   {
