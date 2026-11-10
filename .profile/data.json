@@ -1,5 +1,5 @@
 {
- "key": "9bd1981b",
+ "key": "ca3128b1",
  "stars": 9,
  "contributions": 360,
  "repos": 52,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
