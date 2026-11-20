@@ -1,7 +1,7 @@
 {
- "key": "7394605d",
+ "key": "4b43be9e",
  "stars": 9,
- "contributions": 404,
+ "contributions": 411,
  "repos": 54,
  "followers": 1,
  "languages": [
@@ -22,12 +22,12 @@
    385623
   ],
   [
-   "JavaScript",
-   292964
+   "Dart",
+   348645
   ],
   [
-   "Dart",
-   285114
+   "JavaScript",
+   306999
   ],
   [
    "HTML",
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 11,
     "day": 20,
     "today": true
    },
@@ -246,7 +246,7 @@
    "text": "Official Mouvi plugin store catalog and example .mu plugins",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "JavaScript",
    "topics": []
   },
   {
